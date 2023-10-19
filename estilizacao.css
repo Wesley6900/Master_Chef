@@ -17,7 +17,7 @@
 }
 
 .cabecalho .logo img{
-    width: 150px;
+    width: 120px;
 }
 
 .cabecalho .navegation ul{
@@ -30,7 +30,7 @@
 }
 
 .cabecalho .box_container .navegation ul li a i{
-    font-size: 23px;
+    font-size: 16px;
 }
 
 body main{
